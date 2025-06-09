@@ -24,6 +24,6 @@ A simple functional Amazon-inspired e-commerce frontend built with **React**, **
 ## 🛠️ Run Locally
 
 ```bash
-git clone 
+git clone https://github.com/Jutehk/project.git
 npm install
 npm run dev
